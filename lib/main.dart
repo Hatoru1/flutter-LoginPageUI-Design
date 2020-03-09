@@ -90,10 +90,6 @@ class _MyAppState extends State<MyApp> {
                 padding: EdgeInsets.only(top:20.0),
                 child: Image.asset('assets/image_01.png'),
               ),
-              Expanded(
-                child: Container(),
-              ),
-              Image.asset('assets/image_02.png'),
             ],
           ),
           SingleChildScrollView(
